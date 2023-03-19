@@ -1,6 +1,7 @@
 # Caviar Productions website
 
-Based on Freelancer theme
+* Based on Freelancer theme
+* Using [Free FontAwesome icons](https://fontawesome.com/v5/search?q=person&o=r&m=free&s=solid)
 
 ### Run local webserver for website development
 Pre-requisites:
